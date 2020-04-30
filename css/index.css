@@ -41,10 +41,12 @@
 
 .uy-flag-container {
   width: 100%;
+  text-align: center;
 }
 
 .uy-flag {
   position: relative;
+  padding: 30px;
 }
 
 .click-me {
